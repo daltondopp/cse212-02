@@ -9,7 +9,11 @@ root                    (project root folder)
 +-- card_game.py               (source code for game)
 +-- README.md           (general info)
 
-
+# Require Software
+You will need python Version 3.8 to run this program.
 
 # Author
 Dalton Dopp (I was unable to meet with my the rest of my group this week at the scheduled time because I had a job interview.)
+
+# Contact info
+daltondop19002@byui.edu
